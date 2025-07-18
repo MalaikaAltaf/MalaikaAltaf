@@ -7,7 +7,7 @@
 🎓 I’m a Software Engineering student at NUTECH, enthusiastic about crafting meaningful software solutions.  
 💻 I enjoy working with Java, Python, and web technologies to build responsive and impactful projects.  
 📚 A lifelong learner, I’m also fascinated by literature, and exploring new ideas beyond code.  
-🚀 Currently working on projects like an Employee Management System and exploring AI-powered tools.  
+🚀 Currently working on projects like Cross Platform App Development and exploring AI-powered tools.  
 
 ---
 
