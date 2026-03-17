@@ -64,9 +64,7 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
+  
 </p>
 
 <p align="center">
