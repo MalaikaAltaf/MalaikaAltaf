@@ -1,83 +1,72 @@
-<h1 align="center">I'm Malaika Altaf</h1>
-<h3 align="center">Passionate about clean code, learning, and solving real-world problems</h3>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=200&section=header&text=Malaika%20Altaf&fontSize=52&fontColor=fff&fontAlignY=50&animation=fadeIn)
+
+💜 *turning caffeine & curiosity into intelligent software* 💜
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Engineer+%F0%9F%8C%B8;AI+%26+Full-Stack+Developer+/learner+%F0%9F%A4%96;Google+DeepMind+Hackathon+Participant+%F0%9F%8F%86;Building+things+that+actually+matter+%F0%9F%92%AB)
+
+</div>
 
 ---
 
-### ✨ About Me:
-🎓 I’m a Software Engineering student at NUTECH, enthusiastic about crafting meaningful software solutions.  
-💻 I enjoy working with Java, Python, and web technologies to build responsive and impactful projects.  
-📚 A lifelong learner, I’m also fascinated by literature, and exploring new ideas beyond code.  
-🚀 Currently working on projects like Cross Platform App Development and exploring AI-powered tools.  
+- 💜 **BS Software Engineering** @ NUTECH, Islamabad — Expected 2027
+- 💜 Passionate about **Generative AI · LLMs · Full-Stack Development**
+- 💜 **Technical Lead** — AWS Cloud Club, NUTECH
+- 💜 Currently exploring: **LangChain · RAG Pipelines · Prompt Engineering**
+
 
 ---
 
-### 🌐 Connect with me:
-<p align="center">
-  <a href="https://linkedin.com/in/malaika altaf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</p>
+## 🛠 Tech Stack
+
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**⚙️ Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**🤖 AI & Machine Learning**
+
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**🗄️ Database & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**🌱 Currently Learning**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6A0DAD?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logoColor=white)
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="center">
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
+## 📫 Connect
 
-<p align="center">
-  <!-- Databases & Tools -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Frameworks & Platforms -->
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  
-</p>
-
-<p align="center">
-  <!-- Testing & ML -->
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malaika-altaf-570b252a8)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malaikaaltaf22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MalaikaAltaf)
 
 ---
+
+<div align="center">
+
+*"I don't wait for opportunities to learn — I build my way into them."* 💜
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=80&section=footer)
+
+</div>
