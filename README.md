@@ -65,7 +65,7 @@
 
 <div align="center">
 
-*"I don't wait for opportunities to learn — I build my way into them."* 💜
+*"On a journey to turn data and ideas into intelligent applications."* 💜
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=80&section=footer)
 
