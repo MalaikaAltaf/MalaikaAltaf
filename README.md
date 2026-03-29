@@ -12,7 +12,6 @@
 
 - 💜 **BS Software Engineering** @ NUTECH, Islamabad — Expected 2027
 - 💜 Passionate about **Generative AI · LLMs · Full-Stack Development**
-- 💜 **Technical Lead** — AWS Cloud Club, NUTECH
 - 💜 Currently exploring: **LangChain · RAG Pipelines · Prompt Engineering**
 
 
