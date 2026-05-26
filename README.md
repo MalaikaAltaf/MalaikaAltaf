@@ -4,7 +4,7 @@
 
 💜 *turning caffeine & curiosity into intelligent software* 💜
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Engineer+%F0%9F%8C%B8;AI+%26+Full-Stack+Developer+/learner+%F0%9F%A4%96;Building+things+that+actually+matter+%F0%9F%92%AB)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Software+Engineer+%F0%9F%8C%B8;AI+%26+Full-Stack+Developer+/learner;Building+things+that+actually+matter+%F0%9F%92%AB)
 
 </div>
 
